@@ -849,3 +849,8 @@ section #title .credits.right {
     display: none;
   }
 }
+
+.store-btn {
+  width: 135px;
+  margin: 0 auto;
+}
